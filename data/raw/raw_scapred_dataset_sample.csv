@@ -1,0 +1,2207 @@
+ID,URL_MAIN,Owner,Raw_Scraped_Text,Document_Name,File_Name,Document_Type
+1,https://consult.industry.gov.au/ai-mandatory-guardrails/submission/view/324,CPA Australia," 
+ 
+AI Consultation Team  
+Industry House 
+Department of Industry, Science and Resources 
+10 Binara St 
+Canberra ACT  2600 
+ 
+9 October 2024 
+  
+Dear Helen, 
+Proposals paper for introducing mandatory guardrails for AI in high-risk settings 
+CPA Australia represents the diverse interests of more than 173,000 accounting and finance professionals, working in 
+over 100 countries and regions around the world. We make this submission in response to the  Proposals Paper for 
+introducing mandatory guardrails for AI in high-risk settings  on behalf of our members and in the broader public 
+interest. 
+CPA Australia supports the development of regulatory options for the safe and responsible use of AI in high-risk 
+situations. Such regulatory options need to strike a balance between protecting the community from damaging uses of 
+AI and encouraging greater development and deployment of such technology in Australia. We acknowledge that a 
+major difficulty in developing such options is the lack of well-established regimes from other jurisdictions that Australia 
+can draw on for considered examples. EU, US and Canadian experiences in regulating AI are in their infancy and are 
+evolving. 
+We believe a well-designed, clear and proportionate regulatory regime targeted at likely high-risk AI applications is 
+appropriate to support the safe application of such technology. Such regulation must be supported by education and 
+tools, including for non-high-risk AI applications.  
+We emphasise the importance of the regulatory regime targeting likely high-risk applications of AI. If the mandatory 
+guardrails are required for AI applications that could be high-risk but are unlikely to occur, it may lead to significant 
+numbers of businesses being required to apply the mandatory guardrails to their use of AI. This will discourage AI 
+uptake by business, especially amongst smaller businesses.  
+Unfortunately, what constitutes ‘high-risk AI’ in the Proposals Paper is unclear. We therefore recommend the 
+government issue a further consultation paper with a clearer definition of the term and use cases of what is ‘high-risk’ 
+and what is not. It is important for the examples to include situations where it may be 50-50 whether the AI application 
+is high-risk. 
+If the government proceeds to draft regulation based on this Proposals Paper, the unintended consequences could be 
+significant, and it will stifle the development and deployment of AI. More thinking and consultation are needed with a 
+broader range of stakeholders, especially small business groups, before the government proceeds to exposure draft 
+legislation. 
+In short, the government needs to be much clearer on what constitutes high-risk and not high-risk AI, and who are 
+developers, deployers and users of AI. A narrower definition of general purposed AI (GPAI) is also needed. Without a 
+tighter, more targeted regulatory regime, the government risks undermining rather than supporting AI use. 
+    
+ 
+2 
+ Summary of key recommendations: 
+ To decide whether a principles or list-based definition of high-risk and non-high-risk AI applications is most 
+effective, the government should issue a further consultation paper with: 
+o changes to the principles to make it clearer what constitutes high-risk and non-high-risk AI applications 
+o a developed list of high-risk and non-high risk use cases. 
+ This further consultation paper also needs clearer definitions of developers, deployers and users, and a narrower 
+definition of GPAI. The definition of ‘developer’ should exclude businesses that input additional data into an AI 
+model.  
+ If the government is to go ahead with a principles approach to deciding high-risk AI, it should explicitly include 
+“probability” or “likelihood” into the considerations of whether an AI use is high-risk.  
+ The government focus resources on developing education and tools to help small business use AI safely and 
+responsibly. Examples include the Essential Eight  for cybersecurity and the Cyber Wardens program .  
+ The mandatory guardrails should not apply to all GPAI models. They should only apply to likely high-risk uses of AI, 
+regardless of the AI model used.  
+ We agree that the regulatory regime should be consistent with other jurisdictions, but only if it is well-designed, 
+proportionate, and targeted at likely high-risk uses of AI.  
+ Responsibility for the development of this policy be transferred to a central policy agency such as Treasury.  
+Please refer to the Appendix below for our detailed responses to the questions in the Proposals Paper. If you have any 
+queries, please contact Gavan Ord on gavan.ord@cpaaustralia.com.au . 
+Yours sincerely, 
+      
+Ram Subramanian FCPA 
+Interim Head of Policy and Advocacy  
+ 
+ 
+  
+  
+ 
+3 
+ Appendix 
+Below is CPA Australia’s response to some of the questions raised in the Proposals Paper, plus other observations. 
+Q1: Low risk use cases that may be unintentionally captured 
+We support the principle that the definition of ‘high-risk’ should not ‘inadvertently catch low-risk applications’. We 
+recommend that the wording of the principles designating AI systems as high risk be tightened to prevent this or be 
+replaced with a list of high-risk and non-high-risk applications of AI. For example, ‘the risk of adverse impacts to an 
+individual’s physical or mental health or safety,’ should be limited to risks that are both ‘foreseeable and likely’.  
+Accounting firms and businesses use AI built into financial software to aid their analysis of the financial performance of 
+a business. Based on the principles, this should be considered ‘low risk’, however there is a potential (albeit low) that 
+such financial analysis could have an adverse impact on the mental health of the people involved in the business under 
+review. Accounting firms and businesses use AI in this situation to improve their analysis of business performance, 
+however such AI tools do not make decisions - AI in this situation is meant to improve advice but not to replace the 
+professional judgment of accountants. Due to its possible (but unlikely) adverse impact on mental health, would AI 
+used to analyse the performance of a business be considered high-risk? 
+Is it the intention of the government that the proposed principle on health and safety only target AI focused on health 
+care? There are many potential non-health care AI applications that could unintentionally affect a user’s mental health, 
+although the potential for such AI to directly contribute to adverse mental health issues is low.  
+We recommend that “f” in the Proposed principles of designating an AI system as high-risk on page 19 of the 
+Proposals Paper be amended to: 
+The severity, extent and likelihood of those impacts outlined in principles (a) to (e) above. 
+Explicitly including probability into the principles (rather than mentioning it in passing) of what is high-risk AI will better 
+target the regime. It will reduce the risk of the Principles unintentionally capturing large numbers of AI applications 
+that could be high-risk, however the likelihood is remote. 
+Q3: Do the proposed principles, supported by examples, give enough clarity and certainty on high-risk 
+AI settings and high-risk AI models? Is a more defined approach, with a list of illustrative uses, 
+needed? 
+ If you prefer a list-based approach (similar to the EU and Canada), what use cases should we 
+include? How can this list capture emerging uses of AI? 
+ If you prefer a principles-based approach, what should we address in guidance to give the 
+greatest clarity? 
+As currently drafted, the proposed principles may unintentionally capture many low-risk AI use cases – potentially 
+requiring many more businesses to implement mandatory guardrails for AI uses than is expected.  We therefore 
+recommend the government develop a list-based approach to show high and non-high-risk uses of AI for 
+consultation.  This would allow the community to compare and consider whether a principle or list-based approach is 
+best.   
+ 
+4 
+ To aid with clarity,  we also recommend that the government include in future consultation papers a graphical 
+representation of when an AI application is high-risk (red light) or not (green light).  For example, is an accounting 
+practice using AI to assist it analyse the financial performance of a business considered as high-risk or not? 
+6. Should mandatory guardrails apply to all GPAI models? 
+No. We recommend that the mandatory guardrails should only apply to high-risk uses on GPAI . Having a non-
+risk-based regulatory approach for GPAI and a risk-based approach for other AI models creates uncertainty. 
+Further, the proposed definition of GPAI is broad. Therefore, if the mandatory guardrails were to apply to all GPAI 
+models, it would unnecessarily bring many businesses into the regulatory regime.  
+We are concerned that the Proposals Paper suggests the regulation of GPAI be based on what technology could do, 
+rather than what it’s intended to do. There are potentially large numbers of possible applications of technology – 
+however many of those possible applications are unlikely to occur.  
+The Proposals Paper says it only relates to “advanced, highly-capable GPAI”. It is unclear what that means. If this is the 
+intention, then the definition of GPAI should be narrowed to reflect this. The definition should also include examples.  
+8. Do the proposed mandatory guardrails appropriately mitigate the risks of AI used in high-risk 
+settings? Are there any guardrails that we should add or remove? 
+The Proposals Paper is unclear on how the mandatory guardrails are to be oversighted. This is a fast-evolving area, and 
+the government will need to be agile to deal with emerging threats and opportunities. It will also be a new area of law, 
+with the risk of unintended consequences high. Waiting for a post-implementation review after three or five years will 
+not be sufficient -  we therefore recommend the Government set up a taskforce to continuously monitor the 
+effectiveness of the guardrails and make regular suggestions for improvement and changes.  The quicker the 
+government can address unintended consequences and emerging threats and opportunities; the more effective the 
+regime will be.  
+Guardrail 1 says organisations must publicly disclose their AI accountability processes. Will such disclosures be subject 
+to independent assurance? If the objective is to build public trust, then we suggest the government consider requiring 
+such disclosures be independently assured, especially for larger businesses.  
+Guardrail 8 requires businesses that use high-risk AI to report ‘adverse incidents and significant model failures’ to 
+developers. We are not certain of the value of imposing this reporting obligation on users of AI. We suggest the 
+government make such reporting voluntary. 
+Guardrail 10 requires organisations to show that they have adhered to the guardrails for high-risk AI systems by 
+carrying out conformity assessments. It is unclear who will undertake such conformity assessments. If it is done by the 
+business itself, they should not be able to self-certify their compliance with the mandatory guardrails.    
+ 
+5 
+ 10. Do the proposed mandatory guardrails distribute responsibility across the AI supply chain and  
+throughout the AI lifecycle appropriately? For example, are the requirements assigned to  
+developers and deployers appropriate? 
+We recommend that the definition of ‘developer’ be changed so that it excludes businesses that input 
+additional data into an AI model.  
+Any business inputting data into a generative AI model is training that model. As presently defined, they could be 
+considered ‘developers’ – this is inconsistent with the generally understood definition of developer. Many businesses 
+would be surprised to learn that under the Proposals Paper they would be considered ‘developers’ because they are 
+entering data into an AI model. 
+We also recommend that the government provide examples of when a business is considered a “developer” and 
+a “deployer” to aid understanding of these terms. 
+12. Do you have suggestions for reducing the regulatory burden on small-to-medium sized businesses  
+applying guardrails? 
+The best way to reduce the regulatory burden on small to medium-sized enterprises (SMEs) is to target the design of 
+the mandatory guardrails so they only apply to likely high-risk uses of AI. A well-designed, targeted regulatory regime 
+will reduce the risk of the mandatory guardrails applying to low-risk AI uses. 
+To help smaller businesses use AI safely and responsibly,  we recommend that the government focus its efforts on 
+developing educative tools and other resources . The 70-page Voluntary AI Safety Standard will by itself, not lift the 
+governance skills and capabilities of smaller businesses to use AI responsibly. Such businesses are time and resource 
+constrained – that is, they have little to no capacity to adapt a 70-page standard into their business.  
+Such standards do not replace the need for simple, easy to apply guidance for SMEs.  We therefore recommend that 
+the principles in that standard should be turned into short guidance materials and tools like the Essential Eight 
+for cyber security.  It should also include tips on how to mitigate risks for businesses using AI such as data poisoning 
+and prompt engineering. Education on the safe and responsible application of AI could be delivered to smaller 
+businesses through a program like Cyber Wardens.  
+For example, a small business may use an open AI platform to develop marketing material, customer correspondence 
+or analyse their performance. To help such businesses use AI safely in that situation, the government should develop 
+simple guidance, tools and education. 
+SMEs using high-risk AI will struggle to meet the proposed accountability process for Guardrail 1 on page 36 of the 
+Proposals Paper. They will also struggle to set up, implement and maintain their own risk management processes as 
+needed in Guardrail 2 and set up processes for people to contest AI-enabled decisions in Guardrail 7. We suggest the 
+government consider tailored regulatory requirements for SMEs that must apply the mandatory guardrails. Such 
+requirements should be developed in consultation with small business organisations.    
+ 
+6 
+ 13. Which legislative option do you feel will best address the use of AI in high-risk settings? What 
+opportunities should the government take into account in considering each approach? 
+CPA Australia does not have a set position on which legislative option would be best. However, from the available 
+information, Option 1 - adopting guardrails within existing regulatory frameworks, maybe best. To ensure consistency 
+and address gaps, this could be done through an omnibus Bill, with an overarching framework articulated in the 
+drafting instructions.  
+Other observations 
+We recommend moving responsibility for the development of this policy to a central policy agency such as 
+Treasury.  What is being proposed will have an economy-wide and whole of government impact. We believe Treasury 
+is better placed to progress this issue. 
+ ",Submission_Mandatory_Guardrails_for_AI_October_2024.4089b11e,Submission_Mandatory_Guardrails_for_AI_October_2024.4089b11e.pdf,pdf
+2,https://consult.industry.gov.au/ai-mandatory-guardrails/submission/view/321,Commonwealth Bank of Australia,"  
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+o 
+o 
+o 
+• 
+• 
+ 
+ 
+• 
+• 
+• 
+• 
+• 
+ 
+• 
+• 
+o 
+o 
+o 
+o 
+o 
+• 
+• 
+• 
+• 
+ 
+• 
+• 
+• 
+• 
+ 
+",AI_Mandatory_Guardrail_Submission_CBA_Final.2855f710,AI_Mandatory_Guardrail_Submission_CBA_Final.2855f710.pdf,pdf
+3,https://consult.industry.gov.au/ai-mandatory-guardrails/submission/view/320,Digital Rights Watch,"Subm ission
+to
+the
+Departm ent
+of
+Industry,
+Science
+and
+Resources
+regarding
+the
+Proposals
+Paper:
+Introducing
+m andatory
+guardrails
+for
+AI
+in
+high-risk
+settings
+7
+O ctober
+2024
+D igital
+Rights
+W atch
+is
+a
+charity
+organisation
+founded
+in
+2016
+w hose
+m ission
+is
+to
+ensure
+that
+people
+in
+Australia
+are
+equipped,
+em pow ered
+and
+enabled
+to
+uphold
+their
+digital
+rights.
+W e
+stand
+for
+Privacy,
+D em ocracy,
+Fairness
+&
+Freedom
+in
+a
+digital
+age.
+W e
+believe
+that
+digital
+rights
+are
+hum an
+rights
+w hich
+see
+their
+expression
+online.
+W e
+educate,
+cam paign,
+and
+advocate
+for
+a
+digital
+environm ent
+w here
+individuals
+have
+the
+pow er
+to
+m aintain
+their
+hum an
+rights.
+1
+1
+Learn
+m ore
+about
+our
+w ork
+on
+our
+w ebsite:
+https://digitalrightswatch.org.au/
+W ho
+we
+are
+D igital
+Rights
+W atch
+is
+a
+charity
+organisation
+founded
+in
+2016
+to
+prom ote
+and
+defend
+hum an
+rights
+as
+realised
+in
+the
+digital
+age.
+W e
+stand
+for
+privacy,
+dem ocracy,
+fairness
+and
+freedom .
+D igital
+Rights
+W atch
+educates,
+cam paigns
+and
+advocates
+for
+a
+digital
+environm ent
+in
+w hich
+rights
+are
+respected,
+and
+connection
+and
+creativity
+can
+ﬂourish.
+M ore
+inform ation
+about
+our
+w ork
+is
+available
+on
+our
+w ebsite:
+www.digitalrightswatch.org.au
+Acknowledgem ent
+of
+Country
+D igital
+Rights
+W atch
+acknow ledges
+the
+Traditional
+O w ners
+of
+Country
+throughout
+Australia
+and
+their
+continuing
+connection
+to
+land
+and
+com m unity.
+W e
+acknow ledge
+the
+Aboriginal
+and
+Torres
+Strait
+Islander
+peoples
+as
+the
+true
+custodians
+of
+this
+land
+that
+w as
+never
+ceded
+and
+pay
+our
+respects
+to
+their
+cultures,
+and
+to
+elders
+past
+and
+present.
+Contact
+Elizabeth
+O’Shea
+|
+Chair
+|
+lizzie@digitalrightswatch.org.auOverview
+D igital
+Rights
+W atch
+(D RW )
+w elcom es
+the
+opportunity
+to
+subm it
+com m ents
+to
+the
+D epartm ent
+of
+Industry,
+Science
+and
+Resources
+regarding
+the
+Proposals
+Paper:
+Introducing
+m andatory
+guardrails
+for
+AI
+in
+high-risk
+settings
+(the
+Proposals
+Paper).
+W e
+support
+the
+Australian
+governm ent’s
+com m itm ent
+to
+developing
+a
+regulatory
+environm ent
+that
+builds
+com m unity
+trust
+and
+prom otes
+AI
+adoption.
+As
+Australia’s
+leading
+digital
+rights
+organisation,
+D RW
+is
+prim arily
+concerned
+w ith
+the
+im plications
+of
+AI
+and
+autom ated
+decision
+m aking
+(AD M )
+system s
+for
+the
+hum an
+rights,
+safety
+and
+w ellbeing
+of
+individuals
+and
+com m unities.
+W e
+actively
+participate
+in
+public
+consultations
+regarding
+the
+developm ent
+of
+legislation
+and
+policy
+in
+relation
+to
+technology
+and
+hum an
+rights.
+O ur
+recent
+subm issions
+relevant
+to
+AI
+regulation
+and
+governance
+include:
+●
+Subm ission
+to
+the
+Select
+Com m ittee
+on
+Adopting
+Artiﬁcial
+Intelligence
+regarding
+the
+inquiry
+into
+the
+opportunities
+and
+im pacts
+for
+Australia
+arising
+out
+of
+the
+uptake
+of
+AI
+technologies
+in
+Australia
+2
+●
+Subm ission
+to
+the
+D epartm ent
+of
+Industry,
+Science
+and
+Resources
+in
+response
+to
+the
+Safe
+and
+Responsible
+AI
+issues
+paper
+3
+●
+Subm ission
+to
+the
+D igital
+Technology
+Taskforce
+in
+response
+to
+‘Positioning
+Australia
+as
+a
+leader
+in
+digital
+econom y
+regulation
+-
+Autom ated
+D ecision
+M aking
+and
+AI
+Regulation’
+Issues
+Paper
+4
+●
+Subm ission
+to
+the
+Senate
+Econom ics
+Com m ittee
+Inquiry
+into
+the
+inﬂuence
+of
+international
+digital
+platform s
+5
+As
+previously
+noted,
+“AI”
+can
+be
+a
+slippery
+concept
+that
+has
+different
+m eanings
+and
+purposes
+depending
+on
+w ho
+is
+using
+it
+and
+w hy.
+D RW
+believes
+the
+adoption
+of
+ISO
+deﬁnitions
+by
+the
+D epartm ent
+is
+sensible,
+how ever
+w e
+do
+note
+that
+deﬁning
+technology— especially
+AI
+technologies— can
+often
+be
+a
+point
+of
+contention,
+and
+m ay
+present
+drafting
+challenges
+in
+the
+regulatory
+context.
+W e
+5
+D igital
+Rights
+W atch
+Subm ission
+to
+the
+Senate
+Econom ics
+Com m ittee
+inquiry
+into
+the
+inﬂuence
+of 
+international
+digital
+platform s,
+14
+M arch
+2023.
+Available
+at: 
+https://digitalrightswatch.org.au/2023/04/26/democratising-digital-economies/
+4
+D igital
+Rights
+W atch
+Subm ission
+to
+the
+D igital
+Technology
+Taskforce
+on
+the
+Issues
+Paper 
+‘Positioning
+Australia
+as
+a
+leader
+in
+digital
+econom y
+regulation
+-
+Autom ated
+D ecision
+M aking
+and
+AI 
+Regulation’,
+22
+April
+2022,
+Available
+at: 
+https://digitalrightswatch.org.au/2022/04/22/submission-regulating-ai-and-automated-decision-ma 
+king-in-australia/
+3
+D igital
+Rights
+W atch
+Subm ission
+to
+the
+D epartm ent
+of
+Industry,
+Science
+and
+Resources
+in 
+response
+to
+the
+Safe
+and
+Responsible
+AI
+issues
+paper,
+14
+August
+2023,
+Available
+at: 
+https://digitalrightswatch.org.au/2023/08/14/safe-responsible-ai/
+2
+D igital
+Rights
+W atch
+Subm ission
+to
+the
+Select
+Com m ittee
+on
+Adopting
+Artiﬁcial
+Intelligence 
+regarding
+the
+inquiry
+into
+the
+opportunities
+and
+im pacts
+for
+Australia
+arising
+out
+of
+the
+uptake
+of
+AI 
+technologies
+in
+Australia,
+17
+M ay
+2024,
+Available
+at: 
+https://digitalrightswatch.org.au/2024/10/07/submission-the-opportunities-and-impacts-for-australia 
+-arising-out-of-the-uptake-of-ai-technologies/recom m end
+that
+the
+departm ent
+take
+an
+inclusive
+approach
+to
+its
+deﬁnition
+of
+AI,
+including
+sim pler
+autom ated
+decision-m aking
+system s,
+as
+these
+can
+produce
+sim ilar
+outcom es.
+D RW
+has
+previously
+expressed
+concern
+about
+the
+priorities
+and
+fram ing
+of
+AI
+regulation
+in
+Australia.
+Speciﬁcally,
+w e
+have
+raised
+concerns
+about
+the
+em phasis
+on
+the
+potential
+to
+create
+econom ic
+and
+social
+w ell-being
+at
+the
+expense
+of
+serious
+consideration
+of
+harm .
+W e
+are
+pleased
+to
+see
+the
+proposed
+guardrails
+as
+part
+of
+a
+broader
+trend
+that
+represents
+a
+shift
+tow ards
+m eaningfully
+grappling
+w ith
+risks.
+Enforcem ent
+and
+prohibition
+W e
+understand
+that
+the
+publication
+of
+the
+guardrails
+represents
+the
+ﬁrst
+step
+in
+the
+journey
+tow ards
+potentially
+com prehensive
+AI
+regulation.
+H ow ever,
+w e
+also
+note
+that
+it
+rem ains
+difﬁcult
+to
+assess
+the
+utility
+and
+value
+of
+the
+guardrails
+w ithout
+a
+fulsom e
+strategy
+for
+harm
+reduction
+and
+a
+clear
+approach
+to
+enforcem ent.
+W e
+appreciate
+that
+the
+guardrails
+are
+designed
+to
+reduce
+harm ,
+but
+an
+effective
+approach
+to
+harm
+reduction
+w ill
+also
+require
+an
+assessm ent
+at
+an
+early
+stage
+to
+consider
+w hether
+certain
+tools
+should
+be
+developed
+and
+deployed
+at
+all
+(even
+if
+they
+com ply
+w ith
+the
+guardrails
+as
+a
+m atter
+of
+process).
+W ithout
+such
+assessm ents,
+and
+a
+clear
+path
+to
+enforcem ent
+capabilities,
+the
+guardrails
+w ill
+rem ain
+statem ents
+that
+organisations
+and
+executives
+are
+encouraged
+to
+think
+about,
+but
+not
+m uch
+else.
+The
+guardrails
+alone
+are
+not
+sufﬁcient
+as
+an
+AI
+governance
+strategy,
+and
+are
+not
+consistent
+w ith
+a
+hum an
+rights
+approach,
+w hich
+im poses
+speciﬁc
+lim its
+and
+requires
+enforceability.
+W e
+think
+there
+is
+real
+utility
+in
+considering
+the
+consequences
+of
+non-com pliance
+now ,
+rather
+than
+later
+in
+the
+law
+reform
+process.
+That
+is
+because
+there
+is
+the
+potential
+for
+som e
+kind
+of
+AI
+to
+be
+considered
+too
+high-risk
+and
+too
+dangerous
+such
+that
+it
+should
+be
+prohibited.
+This
+w as
+envisaged
+in
+the
+European
+Union
+AI
+Act,
+for
+exam ple,
+because
+the
+risk
+categories
+are
+attached
+to
+consequences.
+N oting
+question
+4,
+w e
+think
+a
+hum an
+rights
+approach
+leads
+to
+an
+inevitable
+conclusion
+that
+certain
+developm ent
+and
+applications
+of
+AI
+m ust
+be
+banned,
+including
+for
+exam ple,
+follow ing
+the
+lead
+of
+the
+EU
+and
+banning:
+●
+AI
+use
+cases
+that
+pose
+a
+high
+risk
+to
+people’s
+hum an
+rights,
+such
+as
+in
+healthcare,
+education,
+and
+policing;
+●
+AI
+system s
+that
+deploy
+dark
+patterns,
+that
+is
+“sublim inal,
+m anipulative,
+or
+deceptive
+techniques
+to
+distort
+behaviour
+and
+im pair
+inform ed
+decision-m aking,”
+or
+exploit
+vulnerable
+people;
+●
+AI
+system s
+that
+infer
+sensitive
+characteristics
+such
+as
+som eone’s
+political
+opinions
+or
+sexual
+orientation;●
+Real-tim e
+facial
+recognition
+softw are
+in
+public
+places;
+and
+●
+The
+w eaponisation
+of
+AI.
+N ow
+is
+the
+tim e
+to
+think
+about
+w hat
+kinds
+of
+AI
+technology
+should
+be
+prohibited
+outright,
+because
+the
+risks
+posed
+to
+hum an
+rights
+are
+too
+great.
+W e
+also
+think
+that
+now
+is
+the
+tim e
+to
+determ ine
+the
+consequences
+for
+non-com pliance
+w ith
+the
+guardrails,
+as
+w ell
+as
+how
+the
+relevant
+regulator
+w ill
+be
+able
+to
+im pose
+these.
+W ithout
+this
+strategic
+thinking,
+it
+is
+difﬁcult
+to
+assess
+the
+utility
+of
+the
+guardrails
+as
+drafted.
+Privacy
+regulation
+as
+a
+form
+of
+AI
+regulation
+As
+noted
+in
+our
+previous
+subm issions,
+m any
+of
+the
+harm s
+that
+arise
+from
+AI
+and
+autom ated
+decision
+m aking
+stem
+from
+inappropriate
+collection
+and
+use
+of
+personal
+inform ation.
+As
+such,
+robust
+privacy
+regulation
+can
+go
+a
+long
+w ay
+tow ard
+m itigating
+privacy-related
+harm s
+caused
+by
+AI.
+W e
+w elcom e
+the
+‘ﬁrst
+tranche’
+of
+privacy
+reform
+that
+w as
+recently
+tabled
+by
+the
+governm ent
+in
+the
+form
+of
+the
+Privacy
+and
+Other
+Legislation
+Am endm ent
+Bill
+2024
+.
+The
+reform s
+contained
+in
+this
+bill
+are
+essential.
+H ow ever
+w e
+note
+that
+there
+is
+no
+tim efram e
+for
+the
+m any
+dozens
+of
+reform s
+that
+the
+governm ent
+agreed
+m ust
+be
+m ade
+to
+the
+Privacy
+Act.
+Speciﬁcally,
+this
+includes
+reform s
+to
+the
+deﬁnition
+of
+personal
+inform ation
+(w hich
+sets
+the
+scope
+of
+the
+act),
+the
+concept
+of
+consent,
+a
+proposed
+‘fair
+and
+reasonable’
+test,
+as
+w ell
+as
+the
+rem oval
+of
+certain
+exem ptions.
+W ithout
+these
+reform s,
+the
+personal
+inform ation
+being
+collected
+and
+used
+by
+industry
+to
+train
+AI
+m odels
+w ill
+take
+place
+based
+on
+an
+outdated
+notion
+of
+consent
+that
+does
+not
+align
+w ith
+com m unity
+expectations.
+This
+is
+a
+problem
+not
+just
+for
+public
+trust
+in
+these
+m odels,
+but
+also
+it
+signiﬁcantly
+increases
+the
+risk
+of
+unintended
+outcom es.
+W ithout
+proper
+care
+and
+due
+diligence
+applied
+to
+data
+sets
+used
+to
+train
+AI,
+there
+are
+signiﬁcant
+risks
+of
+discrim inatory
+and
+harm ful
+outcom es,
+m ade
+all
+the
+m ore
+dangerous
+by
+having
+the
+cover
+of
+supposedly
+neutral
+technology.
+For
+these
+reasons,
+privacy
+law
+is
+a
+fundam ental
+part
+of
+AI
+regulation
+and
+m ust
+be
+factored
+into
+any
+regulatory
+approach.
+The
+failure
+to
+im plem ent
+full-scale
+privacy
+reform
+to
+date
+underm ines
+our
+conﬁdence
+that
+the
+guardrails
+w ill
+do
+the
+job
+w e
+expect
+of
+them .
+The
+governm ent
+m ust
+prioritise
+the
+rem aining
+privacy
+reform s
+it
+has
+com m itted
+to
+im plem enting.
+Options
+for
+regulating
+the
+guardrails
+As
+a
+prelim inary
+m atter,
+w e
+think
+O ption
+1
+is
+at
+risk
+of
+being
+functionally
+equivalent
+to
+inaction.
+Incorporating
+the
+guardrails
+into
+existing
+regulatory
+regim es
+-
+such
+as
+privacy,
+adm inistrative
+law ,
+online
+safety,
+corporations,intellectual
+property,
+com petition
+and
+consum er
+protection,
+and
+anti-discrim ination
+-
+is
+likely
+to
+be
+politically
+contested
+and
+slow .
+It
+is
+an
+unrealistic
+approach
+in
+circum stances
+w here
+regulatory
+action
+is
+urgently
+needed.
+In
+general,
+w e
+support
+O ption
+3,
+not
+least
+because
+of
+our
+com m ents
+above
+about
+enforcem ent.
+W e
+also
+think
+that
+there
+w ould
+be
+a
+real
+beneﬁt
+in
+thinking
+about
+the
+pow ers
+that
+an
+AI
+regulator
+m ight
+need
+to
+be
+able
+to
+prom ote
+and
+m onitor
+com pliance
+w ith
+the
+guardrails.
+This
+includes
+seeking
+transparency
+from
+industry,
+intervening
+in
+the
+processes
+used
+by
+developers
+to
+im plem ent
+the
+guidelines
+as
+needed,
+and
+offering
+guidance
+for
+both
+developers
+and
+deployers.
+There
+m ay
+also
+be
+beneﬁt
+in
+a
+bespoke
+regulator
+in
+serving
+as
+a
+clearing
+house
+for
+com plaints,
+and
+m aking
+policy
+recom m endations
+that
+arise
+as
+a
+result.
+W e
+think
+the
+governm ent
+should
+carefully
+consider
+the
+EU
+proposal
+to
+introduce
+a
+tort
+for
+non-contractual
+liability.
+6
+This
+is
+the
+m om ent
+to
+think
+carefully
+about
+how
+to
+ensure
+that
+those
+harm ed
+by
+AI
+have
+a
+m eaningful
+path
+to
+redress,
+to
+give
+the
+public
+conﬁdence
+that
+such
+technology
+is
+trustw orthy.
+This
+w ill
+also
+allow
+for
+such
+harm s
+to
+be
+anticipated
+and
+acted
+upon
+by
+those
+developing
+and
+deploying
+AI,
+rather
+than
+ignored.
+6
+Liability
+Rules
+for
+Artiﬁcial
+Intelligence
+See
+https://com m ission.europa.eu/business-econom y-euro/doing-business-eu/contract-rules/d
+igital-contracts/liability-rules-artiﬁcial-intelligence_en",Submission_AI_consultation_.eca6dd52,Submission_AI_consultation_.eca6dd52.pdf,pdf
+4,https://consult.industry.gov.au/ai-mandatory-guardrails/submission/view/319,eSafety Commissioner," 
+ 
+eSafety.gov.au  Introducing mandatory guardrails for AI in high -risk settings: proposals paper  
+eSafety Submission  
+ 
+The eSafety Commissioner  (eSafety) welcomes the opportunity to provide a submission  to 
+the Introducing mandatory guardrails  for AI in high-risk settings: proposals paper  (Mandatory  
+Guardrails Paper) . 
+In addition to this submission, eSafety is pleased to  be a contribut ing member  to the cross -
+government response  for Safe and Responsible Artificial Intelligence ( AI). This enables us to  
+contribute our regulatory experience and exp ertise as Australia's national independent 
+regulator  for online safety  to this important process.  
+We also co -authored a joint submission to the Mandatory Guardrails Paper as part of the 
+Digital Platform Regulators Forum ( DP-REG). The other DP -REG members  are the  Australian 
+Competition and Consumer Commission, the Australian Communications and Media Authority 
+and the Office of the Australian Information Com missioner . Building upon the joint 
+submission  DP-REG made to the Safe and Responsible use of AI in Australia discussion 
+paper , our joint submission to this process  highlighted  that DP-REG: 
+• Shares information about, and collaborate s on, cross -cutting issues and activities 
+involving AI and the regulation of digital platforms.  
+• Support s a coordinated approach to AI across government, while allowing domain -
+specific regulators to undertake activities within their different frameworks . 
+• Support s in principle  a framework approach  (option 2 ) for implementing mandatory 
+guardrai ls. 
+• Emphasise s that the success of the  framework approach (option 2)  is dependent 
+on important  principles guiding its implementation.   
+One of the key principles is that  the framework approach allow s expert regulators to retain 
+the ability to bring their own distinct lens to proportionately enforcing mandatory guardrails, 
+as informed by each regulator’s understanding of the domains and harms they regulate.  
+As such, t he key purpose of this submission is to outline eSafety’s role and existing 
+regulatory remit  and expertise  in relation to AI. This is intended to provide the supporting 
+context for why eSafety supports an approach that progresses  a coordinated , whole of 
+government approach to AI regulation , while maintaining the subject matter specificity and 
+coherence of interconnected policy, such as online safety, and related legislation, such as the 
+Online Safety Act 2021 (Cth) (Online Safety Act).  
+From an online safety perspective, AI can have a variety of purposes  and impacts , some 
+beneficial  and some harmful. In the context of online harms,  AI tools are  especially relevant 
+in relation  to the generation of  harmful material, including deepfake material, such as  image -
+based abuse  (non-consensual intimate images)  and child exploitation and abuse material.   
+It is important that any response to regulating AI adopts an approach that mitigat es harms 
+and risks, while harnessing and promoting the possible benefits of AI.   
+ 
+eSafety.gov.au  
+ 2 eSafety’s approach  
+As Australia’s leader in online safety , eSafety’s purpose is to help safeguard Australians from 
+online harms and to  promote safer, more positive online experiences.   
+We undertake a range of work to understand,  anticipate and respond to online harms and 
+promote online safety. We also share our expertise  and experience as a regulator to ensure 
+our in depth understanding of online safety can inform  all online safety measures and 
+initiatives across Australia.  
+Our regulatory approach is based on the three pillars of prevention, protection, and proactive 
+and systemic change . We also have a regulatory approach that is both risk -based and takes 
+into consideration a range of harms , as our  core objective is harms minimisation.  
+We have a multidimensional regulatory remit that gives us a range of  powers relating to AI 
+material. For example, our regulatory levers under the Online Safety Act  relating to AI 
+include:  
+• Our four complaints schemes , which  apply to both real and synthetic material  
+which constitutes adult cyber abuse, child cyberbullying, intimate image abuse, or 
+class 1 or 2 material . 
+• Our systemic regulation , such as industry codes and standards  with mandatory 
+obligations for eight key sections of the online industry , as well as the ability to 
+compel transparency from certain services under  the Basic Online Safety 
+Expectations  (BOSE) . These include specific expectations and mandatory 
+obligations around AI, including generative AI. There are also measures that are 
+likely to require the proactive use of AI in order to prevent and detect harmful and 
+unlawful material, such as to detect new child sexual abuse material.  
+• Our Safety by Design initiative . This is where we work with tech com panies to shift 
+their design ethos from 'moving fast and breaking things' to moving thoughtfully 
+and anticipating, detecting and eliminating online threats  by embedd ing protections 
+at the front end , and throughout the development and deployment process.  This 
+includes the assessment of harms and threats posed by AI , the active engineering 
+out of misuse and constant monitoring for unanticipated harms followi ng 
+deployment . 
+• Our Tech Trends  workstream . This is  where we  conduct horizon scanning and work 
+with subject matter experts  to identify the online safety risks and benefits of 
+emerging technologies, as well as the regulatory challenges and benefits they may 
+present.  This enables eSafety to become much more anticipatory , both with 
+respect to harnessing the benefits of emerging technology but also in mitigating 
+the potential risks . 
+• Our position statement on generative AI  provides an overview of the generative AI 
+lifecycle, examples of its use and misuse, consideration of online safety risks and 
+opportunities , and regulatory challenges and approaches .  Our position statement 
+on recommender systems and algorithms  explores the benefits and risks of 
+recommender systems and their underlying algorithms, as well as impacts on an 
+individual and societal level.   
+• Our broad ranging and expansive research , education , awareness raising and 
+engagement efforts relating to online safety, including relating to AI.  For example,  
+ 
+eSafety.gov.au  
+ 3 we are already delivering webinars for teachers around AI in the classroom. AI has 
+also been discussed in some of the key advisory and consultation mechanisms we 
+oversee, including the Youth Advisory Council, the Trusted eSafety Providers and 
+the National Online Safety Education Council.    
+• Our broad ranging p olicy analysis and advice work . This includes  our submission  to 
+the inquiry into the use  of generative AI in the Australian education system to 
+highlight online safety considerations for such use . It also includes our submission  
+to the  inquiry into the Criminal Code Amendment (Deepfake Sexual Material) Bill 
+2024, which criminalised deepfake image -based abuse.  
+• Our international engagement and collaboration with online safety regulators  
+around the world , through the Global Online Safety Regulators Network  (GOSRN)  
+and various  other  international forums and networks . We recognise that online 
+safety is a global challenge that requires a collaborative response. We engag e in 
+regular cross -jurisdictional and multi -disciplinary dialogue with our international 
+counterparts and colleagues  to better understand regulatory best practice , improve 
+regulatory coherence , and protect Australians in the global online environment.  
+It is also relevant to note that the Online Safety Act is currently under going an independent 
+statutory review . The report is due to government by  31 October 2024.  
+The Terms of Reference  detail consideration of generative AI as part of the Online Safety Act 
+review. However, as one of many Terms of Reference, this also shows that the regulation of 
+AI needs to be understood within the co ntext of a regulator’s overall remit and regulatory 
+toolkit. It is important that  the enabling legislation of regulators remains the primary 
+mechanism for outlining their powers and functions . It is also important  that specific areas , 
+such as AI, are not demarcated in a way that could undermine t he cohesiveness and 
+comprehensiveness of a regulator’s  remit.  
+The need for a technology, platform, service, distribution and device neutral approach to 
+online safety regulation was highlighted as part of the first statutory review  of eSafety’s 
+governing legislation back in 2018.    
+Response to Mandatory Guardrails Paper  
+Overall, eSafety recognises the importance of progressing a coordinated approach to AI 
+regulation  across government . We see the benefit in a  harmonised approach across sectors 
+to minimise the potential for fragmentation  and inconsistency .  
+However,  in progressing a wh ole of government approach,  it is vital t hat the subject matter 
+specificity and  expertise  that has emerged in the context of existing regulatory remits  is 
+maintained. In relation to online safety, eSafety has already taken significant work to  better 
+safeguard Australians from a range on online risks and harm s relating to  AI, as outlined 
+above.   
+Proposed principles for defining what is high -risk 
+Broadly  speaking , eSafety supports  the proposed principles for defining  what is  high-risk AI.  
+ 
+eSafety.gov.au  
+ 4 We note that how these principles will be applied in practice will be crucial.  There is a risk 
+that when princip les are framed at a high level t hey do not  capture or clearly align to the 
+adverse impacts and effects that occur within specific domains.  
+For example, within eSafety’s remit, we see a range of adverse impacts associated with AI, 
+including:  
+• AI generating and /or amplifying harmful and unlawful  content. This includes 
+deepfake child sexual abuse  material,  image -based abuse , online hate and other 
+forms of abuse. This harms the victim -survivor of these materials, those who 
+inadvertently come across such material and contributes to a less safe and rights -
+respecting online sphere.  
+• We are also seeing organised criminals and predators ‘innovating ’ in their 
+techniques to ensnare victims through the use of face swapping technologies on 
+video conferen cing platforms .  It is only a matter of time before automated 
+chatbots can be scaled to engage in a range of social engineering scams , including 
+grooming  of children  and financial sexual extortion.   
+• AI is contribut ing to the generation and amplification of content that promotes bias 
+and discrimination. This includes promoting misogyny , homophobia, racism  and 
+other forms of prejudice. Such content can normalise  hate or intolerance . It may 
+also lead to an erosion of trust in online content or institutions.  
+• AI being used  to facilitate, or in ways that can contribute to, radicalisation and 
+extremism. This includes radicalisation towards terrorism and violent extremism. 
+For example,  AI can be used to create terrorist and violent extremist content . 
+Some models can also  analyse social media posts, online interactions, and other 
+data sources in order  to tailor  propaganda . 
+Of the proposed principles, the one that most closely relates to eSafety’s remit is  ‘the risk of 
+adverse impacts to an individual’s physical or mental health or safety’.  
+We suggest limiting health and safety to only ‘physical and me ntal’ does not capture the full 
+range of safety issues, including psychological  and emotional safety , particularly in the 
+context of leveraging  AI as a form of coercive contro l.  AI can also be weaponised to 
+perpetrate simulated abuse and assault  in hyper -realistic and high sensory immersive 
+environments . When online abuse or assault is happening in real -time in private immersive  
+spaces, it can have a real, traumatic  and visceral impact on the victim survivor . 
+Another example is the proliferation of AI ‘nudifying’  services . While based on a technology 
+that may have beneficial or neutral applications, the application in this context is negative 
+and nefarious:  the primary purpose of these services is to create sexual or intimate imagery 
+of people without their consent . They are unlikely to employ sufficient protections  to prevent 
+their misuse for the creation child sexual abuse material . Services like these have 
+proliferated online and are easy to find and use . While these services  make it simple and 
+low-cost for the perpetrator, the cost to the victim -survivor  can be  devastating.  Accordingly, 
+while the proposed principles seem to categorise this type of risk as one that may have 
+‘adverse impacts to the broader Australian economy, society, environment and rule of law’ 
+(principle  e), eSafety suggests it should also be assessed as presenting significant risks to 
+individuals’ rights and safety  (under principles a, b and c) .   
+ 
+eSafety.gov.au  
+ 5 eSafety welcomes further discussions  on how these proposed principles will be applied in 
+practice and tailored to capture and align with the adverse impacts and effects that occur 
+within specific domains . 
+Proposed mandatory guardrails for high -risk AI  
+eSafety supports having mandatory guardrails for AI . We note that  it is important to consider 
+how new mandatory guardrails would  be mapped against existing legislative and regulatory 
+requirements , to ensure these can work in step with one another .  
+To illustrate, w e can provide some examples of existing mandatory guardrails within  eSafety's 
+systemic regulatory powers . 
+Industry codes and standards  under the Online Safety Act address specific online  safety 
+issues in eight sections of the online industry across the digital stack. While AI -generated 
+material is treated under the legislation in the same way as ‘real’ class 1 and class 2 material, 
+the risks associated with AI generated material have necessitated specific requirements in 
+relation to AI -related features  in some codes and standards . For example:  
+• the Search Engine Services (SES) code, which was registered on 12 September 2023 
+and came into effect on 12 March 2024, requires  search engine providers to take steps 
+to ensure AI functionality integrated into search engines does not return search results 
+that contain class 1 material like child sexual abuse material (CSAM). The SES code 
+also requires action to reduce the accessibi lity of synthetic materials generated by AI 
+via the search engine service , and make clear when a user is interacting with AI for 
+example to generate search results . These existing requirements  generally align with 
+proposed guardrails 1 (accountability processes), 2 (risk management processes) , 4 
+(testing and monitoring), and 6 (informing end -users). eSafety also has the power to 
+require providers to submit a report  on the steps taken to comply and an exp lanation 
+as to why these measures are appropriate, in alignment with proposed guardrail 9 
+(maintain records for third parties to  assess compliance).   
+• the Designated Internet Services (DIS) standard, prepared after the Commissioner’s 
+rejection of an industry -drafted code, includes specific obligations for certain ‘high 
+impact  generative AI ' services to prevent AI features from being used to generate 
+outputs of child sexual abuse material and pro -terror material , where th e risk of 
+generating X18 + or RC  (refused classification)  content is considered not to be 
+immaterial . This includes by regularly reviewing and testing models and promptly 
+making adjustments . These requirements specifically align with proposed guardrail 4  
+(testing and evaluation) , although the thresholds and the corresponding obligations 
+that attach are carefully calibrated to target high risk uses in the online safety 
+context.  eSafety registered the DIS standard in June 2024, which is expected to come 
+into effect in December 2024. eSafety will have the power to require  reporting from 
+services about their compliance.   
+The Basic Online Safety Expectations (BOSE)  outline the Australian Government’s 
+expectations that social media, messaging and gaming service providers and other apps and 
+websites will take reasonable steps to keep  Australians safe.  
+• To date, eSafety has issued 27 transparency notices requiring providers to report on 
+the steps they are taking to keep Australians safe online and address unlawful and 
+harmful material and activity. The notices have included specific questions on how AI 
+is used to improve safety on the service. For example, detecting and removing child 
+sexual abuse material and grooming. It also includes how services are addressing  
+ 
+eSafety.gov.au  
+ 6 safety risks of AI  such as the potential  amplification of harmful content via 
+recommender systems. Findings to date have been published on the eSafety website. 
+This work serves to bolster proposed guardrail 8 (transparency).   
+• In March 2024, notices were issued covering, among other things, generative AI in 
+relation to terrorism and extremism, and child sexual abuse, with appropriate 
+information to be published in due course. eSafety expects to publish a summary of 
+findings later this year.  
+• On 30 May 2024, the Minister for Communications amended the Online Safety (Basic 
+Online Safety Expectations) Determination 2022 to include an explicit expectation that 
+providers of relevant services with generative AI capabilities will take reasonable step s 
+to:  
+o consider end -user safety and incorporate safety measures in the design, 
+implementation and maintenance on generative AI capabilities on the service  
+(consistent with proposed guardrails 1, 2 and 4 , among others ) 
+o proactively minimise the extent to which generative AI capabilities may be used 
+to produce material or facilitate activity that is unlawful or harmful  (consistent 
+with guardrails 2 and 3 , among others ). 
+• In July 2024 the first ‘periodic’ notices were issues to eight providers, that require six 
+monthly reports to eSafety for a period of two years, including on generative AI.  The 
+first reports are due to eSafety in February 2025.  
+ 
+Regulatory options to mandate and implement guardrails  
+In considering the regulatory options to mandate guardrails,  eSafety reiterates its position 
+that it supports a coordinated approach across government, while allowing domain -specific 
+regulators to undertake activities within their different frameworks. This would ensure  the 
+subject matter specificity and policy nuance of specific domains is not  lost in efforts to drive 
+cross -government consistency.  
+On the option  to introduce a new AI -specific Act, eSafety  considers this present s practical 
+challenges.  
+The digital  technology landscape is  constantly and rapidly  evolving  and this includes the 
+growth and evolution of AI . With new and emerging forms of technology often being created, 
+it raises  the question of whether a new technology -specific regime would be required for 
+each emerging technology development . This creates considerable risks that a technology -
+specific regulatory framework will not keep pace with technological change.  
+Another question to consider is how the establishment of a monitoring and enforcement 
+regime overseen by an independent AI regulator would interact with existing regimes that 
+capture AI . As noted above, eSafety already has a range of regulatory measures that apply to 
+some AI services , including mandatory guardrails and enforceable  transparency measures. An 
+AI-specific Act enforced by a standalone regulator creates a risk that guardrails are enforced 
+in a way that duplicates existing guardrails in other regu latory frameworks focused on 
+reducing specific harms.  
+An AI specific act also presents the risks of consumer and industry confusion , as well as  
+regulatory burden.   
+ 
+eSafety.gov.au  
+ 7 Of the options presented in the proposals paper for implementing mandatory guardrails , we 
+consider that a framework approach (option 2) is the most suitable . We therefore support 
+option 2  in principle . However, as outlined in our DP -REG joint submission, for a framework 
+approach to be successful it will need to:  
+• allow expert regulators to retain the ability to each bring their own distinct lens to 
+proportionately enforcing mandatory guardrails, as informed by each regulator’s 
+understanding of the domains and harms they regulate.  
+• clearly set out a common set of broad definitions.  
+• establish the scope of its application and provide guidance on common regulatory 
+options available to regulators.  
+• reduce regulatory burden and complexity for regulated entities, who have established 
+and productive relationships with domain -specific regulators.  
+• reduce duplication of effort by industry participants by reducing barriers to 
+information -sharing between existing regulators.  
+• continue to build capability of regulators to identify, investigate and respond when AI 
+intersects with their regulatory frameworks, including an uplift in technical skills for 
+existing regulators to better understand the technology.  
+• promote coordination between regulators, including to facilitate the appropriate 
+allocation of complaints from individuals affected by AI.  
+For example , eSafety considers that under option 2 , definitions used in industry  codes and 
+standards, the Basic Online Safety Expectations, and the Online Safety Act more broadly 
+could usefully be further harmonised by framework legislation on AI . However, as out lined 
+above, this would only be successful if it was done in way that maintain ed a recognition of 
+the unique risks, harms and context of online safety, as well as enable d the positive uses of 
+AI online to prevent harms to Australians.  
+Lastly, as with any policy area, it is vital that this process is undertaken through a process of 
+co-design that is centred in  lived experience . This is  to ensure the voices and perspectives of 
+those with lived experience of AI can inform the policies and programs that affect them.   
+We are happy to provide any further information that  would assist.  We also look forward to 
+continu ing to  contribut e to cross -government activities that support a whole of government 
+approach to AI , while also  ensuring particular policy areas, such as online safety, retain their 
+cohesiveness and subject matter specificity.  
+ 
+ 
+ ",20240917_eSafety_DISR_AI_submission_Introducing_mandatory_guardrails_for_AI_in_high_risk_settings_proposals_paper_1_.78f098ce,20240917_eSafety_DISR_AI_submission_Introducing_mandatory_guardrails_for_AI_in_high_risk_settings_proposals_paper_1_.78f098ce.pdf,pdf
